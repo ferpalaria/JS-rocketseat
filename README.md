@@ -223,3 +223,5 @@ Math.ceil(1.1) == 2        (pra cima)
 ```
 
 </details>
+
+Apertar Enter em algum input vai submeter o botao, pq eles estão dentro do FORM
